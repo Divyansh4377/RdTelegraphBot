@@ -19,7 +19,7 @@ async def start(client, message):
                chat_id=message.chat.id,
                text="""<b>👋 Hey There, Welcome To RoyalPhotoGraphBot.</b>
 
-<i> Can Upload Photos or Videos To Telegraph. Made by @Royal_Devendra
+<i>I Can Upload Photos or Videos To Telegraph. Made by @Royal_Devendra
 
 Press The Help Button For More Information On How To Use Me.</i>""",   
                             reply_markup=InlineKeyboardMarkup(
